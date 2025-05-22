@@ -1,0 +1,24 @@
+# Ignore directories
+animation/
+results/
+
+# Python
+*.py[cod]
+*.egg-info/
+*.so
+*.egg
+*.sqlite3
+*.coverage
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+.tox/
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+dist/
+build/
+*.log 
