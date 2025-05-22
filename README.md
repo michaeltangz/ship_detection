@@ -1,5 +1,9 @@
 # Satellite Image Ship Detection
 
+![Demo Animation](ships_in_rgb_animation.gif)
+
+*Example: Detected ships highlighted in red squares on RGB satellite imagery. Animation shows the detection process.*
+
 This script processes satellite imagery to detect ships using NDWI (Normalized Difference Water Index) and image processing techniques.
 
 ## Description
