@@ -87,8 +87,5 @@ pip install GDAL matplotlib numpy scipy scikit-image
     \`\`\`
 5.  Output images will be saved in the `results/` directory. Animation frames (if active) will be in `animation/`.
 
-## Original Author
-
-*   Thales Sehn Körting (http://youtube.com/tkorting)
 
 This README provides a general overview based on the provided `main1.py` script. 
